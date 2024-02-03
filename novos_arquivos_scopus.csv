@@ -1,0 +1,150 @@
+a multi view framework to detect redundant activity labels for more representative event logs in process mining
+state of the art on quality control for data streams a systematic literature review
+leveraging machine learning for automatic topic discovery and forecasting of process mining research a literature review
+process data quality the true frontier of process mining
+concept drift detection and localization framework based on behavior replacement
+a benchmark of process drift detection tools experimental protocol and statistical analysis
+exploiting a combined process mining approach to enhance the discovery and analysis of support processes in manufacturing
+a multi components approach to monitoring process structure and customer behaviour concept drift
+an experimental evaluation of process concept drift detection
+data preprocessing method and api for mining processes from cloud based application event logs
+graph based feature extraction on object centric event logs
+integrated detection and localization of concept drifts in process mining with batch and stream trace clustering support
+tctv trace clustering considering intra and inter cluster similarity based on trace variants
+a survey on recommendation in process mining
+concept drift estimation with graphical models
+continuous discovery of causal nets for non stationary business processes using the online miner
+event case correlation for process mining using probabilistic optimization
+process mining for social and economic needs an introduction
+process mining discovery techniques for software architecture lightweight evaluation framework
+a survey on the application of process discovery techniques to smart spaces data
+grasped a gru ae network based multi perspective business process anomaly detection model
+robotic process automation using process mining a systematic literature review
+internet of processes and things a repository for iot enriched event logs in smart environments
+systematic mapping review on log preparation for process mining
+xpm enhancing exogenous data visibility
+from process agnostic to process aware automation mining and prediction
+transition driven time prediction for business processes with cycles
+pgraphd methods for drift detection and localisation using deep learning modelling of business processes
+financial fraud a review of anomaly detection techniques and recent advances
+revisiting the transition matrix based concept drift approach improving the detection task reliability through additional experimentation
+online correlation for unlabeled process events a flexible cep based approach
+datastream xes extension embedding iot sensor data into extensible event stream logs
+dylopro profiling the dynamics of event logs
+a survey of log division technique in process mining
+a tool for business processes diagnostics
+matching business process behavior with encoding techniques via meta learning an anomaly detection study
+an adaptive imbalance modified online broad learning system based fault diagnosis for imbalanced chemical process data stream
+uncovering change a streaming approach for declarative processes
+detecting model changes in organisational processes a cloud based approach
+radar reactive concept drift management with robust variational inference for evolving iot data streams
+process drift detection in event logs with graph convolutional networks
+bagging recurrent event imputation for repair of imperfect event log with missing categorical events
+managing variability of large public administration event log collections dealing with concept drift
+deep reinforcement learning for data efficient weakly supervised business process anomaly detection
+predictive business process monitoring approach based on hierarchical transformer
+prefixcdd effective online concept drift detection over event streams using prefix trees
+predicting unseen process behavior based on context information from compliance constraints
+aimed an automatic and incremental approach for business process model repair under concept drift
+stardust a novel process mining approach to discover evolving models from trace streams
+trace encoding in process mining a survey and benchmarking
+on the use of domain knowledge for process model repair
+performance preserving event log sampling for predictive monitoring
+a process aware decision support system for business processes
+stochastic aware precision and recall measures for conformance checking in process mining
+an interactive method for detection of process activity executions from iot data
+counterfactual explanability an application of causal inference in a financial sector delivery business process
+partial order based process mining a survey and outlook
+a literature review of fault diagnosis based on ensemble learning
+online process mining a systematic literature review
+generating multi level explanations for process outcome predictions
+algorithm recommendation and performance prediction using meta learning
+towards a business oriented approach to visualization supported interpretability of prediction results in process mining
+detecting cross case associations in an event log toward a pattern based detection
+process mining for healthcare characteristics and challenges
+a method for bottleneck detection prediction and recommendation using process mining techniques
+a conformance checking based approach for sudden drift detection in business processes
+workarounds as generative mechanisms for bottom up process innovation insights from a multiple case study
+concept drift handling a domain adaptation perspective
+addressing convergence divergence and deficiency issues
+enhat synergy of a tree based ensemble with hoeffding adaptive tree for dynamic data streams mining
+how do i update my model on the resilience of predictive process monitoring models to change
+handling concept drift in data stream mining of event logs using hybrid optimization algorithm
+learning data streams with changing distributions and temporal dependency
+a systematic literature review on the application of process mining to industry 4 0
+measuring rule based ltlf process specifications a probabilistic data driven approach
+processing data stream with chunk similarity model selection
+clustering raw sensor data in process logs to detect data streams
+darwin an online deep learning approach to handle concept drifts in predictive process monitoring
+attribute based conformance diagnosis correlating trace attributes with process conformance
+semi markov models for process mining in smart homes
+process mining discovery conformance and enhancement of manufacturing processes
+detecting and responding to concept drift in business processes
+exogenous shocks and business process management a scholars perspective on challenges and opportunities
+the performance assessment framework ppafr for rpa implementation in a loan application process using process mining
+benchmarking change detector algorithms from different concept drift perspectives
+a survey on concept drift in process mining
+literature review on intention mining oriented process mining in information system
+predictive end to end enterprise process network monitoring
+an end to end approach for online decision mining and decision drift analysis in process aware information systems
+explainable concept drift in process mining
+analysis of automated guided vehicles performance based on process mining techniques
+visual drift detection for event sequence data of business processes
+transforming event knowledge graph to object centric event logs a comparative study for multi dimensional process analysis
+automatic model generation and data assimilation framework for cyber physical production systems
+measuring the stability of process outcome predictions in online settings
+using process mining for workarounds analysis in context learning from a small and medium sized company case
+predictive compliance monitoring in process aware information systems state of the art functionalities research directions
+automatically reconciling the trade off between prediction accuracy and earliness in prescriptive business process monitoring
+towards a transition matrix based concept drift approach experiments on the detection task
+process diagnostics at coarse grained levels
+on enabling gdpr compliance in business processes through data driven solutions
+the analysis of online event streams predicting the next activity for anomaly detection
+bridging the gap between process mining methodologies and process mining practices comparing existing process mining methodologies with process mining practices at local governments and consultancy firms in the netherlands
+catch me if you can online classification for near real time anomaly detection in business process event streams
+action oriented process mining bridging the gap between insights and actions
+abstracting low level event data for meaningful process analysis
+visual analytics in process mining for supporting business process improvement
+process mining
+online decision mining and monitoring in process aware information systems
+discovering instance spanning exceptions from process execution logs
+keeping our rivers clean information theoretic online anomaly detection for streaming business process events
+cdlg a tool for the generation of event logs with concept drifts
+interactive process drift detection framework
+algorithm for single firing sequence sudden drift detection
+real time probing of control flow and data flow in event logs
+selecting optimal trace clustering pipelines with meta learning
+online conformance checking to support human behavior study
+process duration modelling and concept drift detection for business process mining
+multi perspective analysis of process dynamics extended abstract
+stochastic process mining
+parameter distribution ensemble learning for sudden concept drift detection
+applying change tree method in configurable process mining
+assessing the impact of context data on process outcomes during runtime
+music score analysis with process mining extended abstract
+leveraging frequencies in event data a pledge for stochastic process mining
+interactive process drift detection a framework for visual analysis of process drifts
+towards routines mining designing and implementing the argos miner a design science artifact for studying routine dynamics with process mining
+a review on financial robot process auto mining based on reinforcement learning
+structural and behavioral biases in process comparison using models and logs
+complex behaviours detection and analysis in process mining
+updating prediction models for predictive process monitoring
+high level event mining a framework
+process mining as a time series analysis tool via conformance checking
+an education process mining framework unveiling meaningful information for understanding students learning behavior and improving teaching quality
+recommending next best skill in conversational robotic process automation
+an efficient drift detection approach using data entropy in business processes
+risk control theory of online transactions
+streaming process mining
+online incremental mining based on trusted behavior interval
+visualization for enabling human in the loop in trace clustering based process mining tasks
+a survey on data stream analytics
+continuous performance evaluation for business process outcome monitoring
+application of machine learning in data driven process analysis a state of the art literature analysis anwendung von machine learning bei der datengetriebenen prozessanalyse eine state of the art literaturanalyse
+online incremental updating for model enhancement based on multi perspective trusted intervals
+automating process discovery through meta learning
+online model generation for scalable predictive process monitoring
+business process event prediction through scalable online learning
+semantic computing
+process modeling and management for healthcare
+the state of the art of business process mining challenges
