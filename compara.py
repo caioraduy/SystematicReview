@@ -14,13 +14,18 @@ def limpar_frase(frase):
 
 def classificar_por_coluna(arquivo_csv, coluna_nome):
     try:
-        dataframe = pandas.read_csv(arquivo_csv, delimiter=None)
-        #dataframe_classificado = dataframe.sort_values(by=coluna_nome)
-        #print(dataframe_classificado)
-        return dataframe
+        dataframe = pandas.read_csv(arquivo_csv, delimiter=None)  # Alterei para ';' como delimitador
+        if coluna_nome not in dataframe.columns:
+            raise ValueError(f"A coluna '{coluna_nome}' não está presente no DataFrame.")
+
+        dataframe_selecionado = dataframe[[coluna_nome]]
+        #print(dataframe_selecionado)
+        return dataframe_selecionado
 
     except Exception as e:
-        print(f"Erro ao classificar os dados: {e}")
+        print(f"Erro ao classificar os dados: {e}")
+        return None
+
 
 # Nome do arquivo CSV que você deseja criar
 def exporta_lista_para_csv(sua_lista, nome_arquivo):
@@ -45,7 +50,7 @@ def compara_duas_listas(lista01,lista02):
         artigo = limpar_frase(lista01[i][0]).lower()
         # verifica o número de vezes que esse título existe e adiciona no dicionário
         if artigo not in TT:
-            TT[artigo] = {"LISTA1": 1, "ANO": lista01[i][1]}
+            TT[artigo] = {"LISTA1": 1}
         else:
             TT[artigo]["LISTA1"] = TT[artigo]["LISTA1"] + 1
     # faz o for na lista 2
@@ -53,13 +58,23 @@ def compara_duas_listas(lista01,lista02):
         artigo = limpar_frase(lista02[i][0]).lower()
         # verifica se a lista 2 está presente no dicionário e adiciona qntas vezes est[a
         if artigo not in TT:
-            TT[artigo] = {"LISTA2": 1,"ANO": lista02[i][1]}
+            TT[artigo] = {"LISTA2": 1}
         else:
             if "LISTA2" not in TT[artigo]:
                 TT[artigo]["LISTA2"] = 0
             TT[artigo]["LISTA2"] = TT[artigo]["LISTA2"] + 1
-    print(TT)
+    #print(TT)
     return TT
+
+def compara_as_4_bases(listas_bases):
+    dicicionario_comparacao_geral = {}
+    # faz o for na lista 1
+    for j in range(0, len(listas_bases)):
+        for i in range(0,len(listas_bases[j])):
+            artigo = limpar_frase(lista_bases[j][i]).lower()
+            # verifica o número de vezes que esse título existe e adiciona no dicionário
+            if artigo not in dicionario_comparacao_SCOPUS:
+                TT[artigo] = 'NÃO REPETIDO'
 
 def retorna_lista_delta(TT):
     i=0
@@ -90,20 +105,40 @@ def retorna_lista_delta(TT):
     print(f'O delta entre as lista é {i}')
     return lista_novos_artigos
 
+def compara_base_2021_2024(path_2024, path_2021, titulo, arquivo_export):
+    # importa os arquivos CSV
+    ref01 = classificar_por_coluna(path_2024, titulo)
+    ref02 = classificar_por_coluna(path_2021, titulo)
+
+    colunas_selecionadas = [titulo]
+
+    # Filtra as colunas selecionadas e converte em uma lista de listas
+    resultados_2024 = ref01[colunas_selecionadas].values.tolist()
+    resultados_2021 = ref02[colunas_selecionadas].values.tolist()
+
+    dicionario_comparacao = compara_duas_listas(resultados_2024, resultados_2021)
+    lista_novos_artigos = retorna_lista_delta(dicionario_comparacao)
+    exporta_lista_para_csv(lista_novos_artigos, arquivo_export)
+
 
 
 if __name__== '__main__':
-    #importa os arquivos CSV
-    ref01 = classificar_por_coluna("C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\SCOPUS2024.csv", "Title")
-    ref02 = classificar_por_coluna("C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\SCOPUS2021.csv", "Title")
-    #croa lista com o título
+    #SCOPUS
+    NOVOS_SCOPUS =compara_base_2021_2024("C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\SCOPUS2024.csv",
+                                        "C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\SCOPUS2021.csv",
+                                         "Title", "novos_arquivos_scopus.csv")
 
-    colunas_selecionadas = ["Title", "Year"]
+    # SPRINGER
+    NOVOS_SPRINGER = compara_base_2021_2024("C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\SPRINGER2024.csv",
+                                          "C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\SPRINGER2021.csv",
+                                          "Item Title", "novos_arquivos_springer.csv")
 
-    # Filtra as colunas selecionadas e converte em uma lista de listas
-    SCOPUS2024 = ref01[colunas_selecionadas].values.tolist()
-    SCOPUS2021 = ref02[colunas_selecionadas].values.tolist()
+    # ACM
+    NOVOS_ACM = compara_base_2021_2024('C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\ACM2024.csv',
+                                            "C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\ACM2021.csv",
+                                            "Title", "novos_arquivos_ACM.csv")
 
-    dicionario_comparacao_SCOPUS = compara_duas_listas(SCOPUS2024, SCOPUS2021)
-    lista_novos_artigos_SCOPUS = retorna_lista_delta(dicionario_comparacao_SCOPUS)
-    exporta_lista_para_csv(lista_novos_artigos_SCOPUS, "novos_arquivos_scopus.csv")
+    # IEEE
+    NOVOS_IEEE = compara_base_2021_2024('C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\IEEE2024.csv',
+                                       "C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\IEEE2021.csv",
+                                       "Document Title", "novos_arquivos_IEEE.csv")
