@@ -1,150 +1,150 @@
-a multi view framework to detect redundant activity labels for more representative event logs in process mining
-state of the art on quality control for data streams a systematic literature review
-leveraging machine learning for automatic topic discovery and forecasting of process mining research a literature review
-process data quality the true frontier of process mining
-concept drift detection and localization framework based on behavior replacement
-a benchmark of process drift detection tools experimental protocol and statistical analysis
-exploiting a combined process mining approach to enhance the discovery and analysis of support processes in manufacturing
-a multi components approach to monitoring process structure and customer behaviour concept drift
-an experimental evaluation of process concept drift detection
-data preprocessing method and api for mining processes from cloud based application event logs
-graph based feature extraction on object centric event logs
-integrated detection and localization of concept drifts in process mining with batch and stream trace clustering support
-tctv trace clustering considering intra and inter cluster similarity based on trace variants
-a survey on recommendation in process mining
-concept drift estimation with graphical models
-continuous discovery of causal nets for non stationary business processes using the online miner
-event case correlation for process mining using probabilistic optimization
-process mining for social and economic needs an introduction
-process mining discovery techniques for software architecture lightweight evaluation framework
-a survey on the application of process discovery techniques to smart spaces data
-grasped a gru ae network based multi perspective business process anomaly detection model
-robotic process automation using process mining a systematic literature review
-internet of processes and things a repository for iot enriched event logs in smart environments
-systematic mapping review on log preparation for process mining
-xpm enhancing exogenous data visibility
-from process agnostic to process aware automation mining and prediction
-transition driven time prediction for business processes with cycles
-pgraphd methods for drift detection and localisation using deep learning modelling of business processes
-financial fraud a review of anomaly detection techniques and recent advances
-revisiting the transition matrix based concept drift approach improving the detection task reliability through additional experimentation
-online correlation for unlabeled process events a flexible cep based approach
-datastream xes extension embedding iot sensor data into extensible event stream logs
-dylopro profiling the dynamics of event logs
-a survey of log division technique in process mining
-a tool for business processes diagnostics
-matching business process behavior with encoding techniques via meta learning an anomaly detection study
-an adaptive imbalance modified online broad learning system based fault diagnosis for imbalanced chemical process data stream
-uncovering change a streaming approach for declarative processes
-detecting model changes in organisational processes a cloud based approach
-radar reactive concept drift management with robust variational inference for evolving iot data streams
-process drift detection in event logs with graph convolutional networks
-bagging recurrent event imputation for repair of imperfect event log with missing categorical events
-managing variability of large public administration event log collections dealing with concept drift
-deep reinforcement learning for data efficient weakly supervised business process anomaly detection
-predictive business process monitoring approach based on hierarchical transformer
-prefixcdd effective online concept drift detection over event streams using prefix trees
-predicting unseen process behavior based on context information from compliance constraints
-aimed an automatic and incremental approach for business process model repair under concept drift
-stardust a novel process mining approach to discover evolving models from trace streams
-trace encoding in process mining a survey and benchmarking
-on the use of domain knowledge for process model repair
-performance preserving event log sampling for predictive monitoring
-a process aware decision support system for business processes
-stochastic aware precision and recall measures for conformance checking in process mining
-an interactive method for detection of process activity executions from iot data
-counterfactual explanability an application of causal inference in a financial sector delivery business process
-partial order based process mining a survey and outlook
-a literature review of fault diagnosis based on ensemble learning
-online process mining a systematic literature review
-generating multi level explanations for process outcome predictions
-algorithm recommendation and performance prediction using meta learning
-towards a business oriented approach to visualization supported interpretability of prediction results in process mining
-detecting cross case associations in an event log toward a pattern based detection
-process mining for healthcare characteristics and challenges
-a method for bottleneck detection prediction and recommendation using process mining techniques
-a conformance checking based approach for sudden drift detection in business processes
-workarounds as generative mechanisms for bottom up process innovation insights from a multiple case study
-concept drift handling a domain adaptation perspective
-addressing convergence divergence and deficiency issues
-enhat synergy of a tree based ensemble with hoeffding adaptive tree for dynamic data streams mining
-how do i update my model on the resilience of predictive process monitoring models to change
-handling concept drift in data stream mining of event logs using hybrid optimization algorithm
-learning data streams with changing distributions and temporal dependency
-a systematic literature review on the application of process mining to industry 4 0
-measuring rule based ltlf process specifications a probabilistic data driven approach
-processing data stream with chunk similarity model selection
-clustering raw sensor data in process logs to detect data streams
-darwin an online deep learning approach to handle concept drifts in predictive process monitoring
-attribute based conformance diagnosis correlating trace attributes with process conformance
-semi markov models for process mining in smart homes
-process mining discovery conformance and enhancement of manufacturing processes
-detecting and responding to concept drift in business processes
-exogenous shocks and business process management a scholars perspective on challenges and opportunities
-the performance assessment framework ppafr for rpa implementation in a loan application process using process mining
-benchmarking change detector algorithms from different concept drift perspectives
-a survey on concept drift in process mining
-literature review on intention mining oriented process mining in information system
-predictive end to end enterprise process network monitoring
-an end to end approach for online decision mining and decision drift analysis in process aware information systems
-explainable concept drift in process mining
-analysis of automated guided vehicles performance based on process mining techniques
-visual drift detection for event sequence data of business processes
-transforming event knowledge graph to object centric event logs a comparative study for multi dimensional process analysis
-automatic model generation and data assimilation framework for cyber physical production systems
-measuring the stability of process outcome predictions in online settings
-using process mining for workarounds analysis in context learning from a small and medium sized company case
-predictive compliance monitoring in process aware information systems state of the art functionalities research directions
-automatically reconciling the trade off between prediction accuracy and earliness in prescriptive business process monitoring
-towards a transition matrix based concept drift approach experiments on the detection task
-process diagnostics at coarse grained levels
-on enabling gdpr compliance in business processes through data driven solutions
-the analysis of online event streams predicting the next activity for anomaly detection
-bridging the gap between process mining methodologies and process mining practices comparing existing process mining methodologies with process mining practices at local governments and consultancy firms in the netherlands
-catch me if you can online classification for near real time anomaly detection in business process event streams
-action oriented process mining bridging the gap between insights and actions
-abstracting low level event data for meaningful process analysis
-visual analytics in process mining for supporting business process improvement
-process mining
-online decision mining and monitoring in process aware information systems
-discovering instance spanning exceptions from process execution logs
-keeping our rivers clean information theoretic online anomaly detection for streaming business process events
-cdlg a tool for the generation of event logs with concept drifts
-interactive process drift detection framework
-algorithm for single firing sequence sudden drift detection
-real time probing of control flow and data flow in event logs
-selecting optimal trace clustering pipelines with meta learning
-online conformance checking to support human behavior study
-process duration modelling and concept drift detection for business process mining
-multi perspective analysis of process dynamics extended abstract
-stochastic process mining
-parameter distribution ensemble learning for sudden concept drift detection
-applying change tree method in configurable process mining
-assessing the impact of context data on process outcomes during runtime
-music score analysis with process mining extended abstract
-leveraging frequencies in event data a pledge for stochastic process mining
-interactive process drift detection a framework for visual analysis of process drifts
-towards routines mining designing and implementing the argos miner a design science artifact for studying routine dynamics with process mining
-a review on financial robot process auto mining based on reinforcement learning
-structural and behavioral biases in process comparison using models and logs
-complex behaviours detection and analysis in process mining
-updating prediction models for predictive process monitoring
-high level event mining a framework
-process mining as a time series analysis tool via conformance checking
-an education process mining framework unveiling meaningful information for understanding students learning behavior and improving teaching quality
-recommending next best skill in conversational robotic process automation
-an efficient drift detection approach using data entropy in business processes
-risk control theory of online transactions
-streaming process mining
-online incremental mining based on trusted behavior interval
-visualization for enabling human in the loop in trace clustering based process mining tasks
-a survey on data stream analytics
-continuous performance evaluation for business process outcome monitoring
-application of machine learning in data driven process analysis a state of the art literature analysis anwendung von machine learning bei der datengetriebenen prozessanalyse eine state of the art literaturanalyse
-online incremental updating for model enhancement based on multi perspective trusted intervals
-automating process discovery through meta learning
-online model generation for scalable predictive process monitoring
-business process event prediction through scalable online learning
-semantic computing
-process modeling and management for healthcare
-the state of the art of business process mining challenges
+a, ,m,u,l,t,i, ,v,i,e,w, ,f,r,a,m,e,w,o,r,k, ,t,o, ,d,e,t,e,c,t, ,r,e,d,u,n,d,a,n,t, ,a,c,t,i,v,i,t,y, ,l,a,b,e,l,s, ,f,o,r, ,m,o,r,e, ,r,e,p,r,e,s,e,n,t,a,t,i,v,e, ,e,v,e,n,t, ,l,o,g,s, ,i,n, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+s,t,a,t,e, ,o,f, ,t,h,e, ,a,r,t, ,o,n, ,q,u,a,l,i,t,y, ,c,o,n,t,r,o,l, ,f,o,r, ,d,a,t,a, ,s,t,r,e,a,m,s, ,a, ,s,y,s,t,e,m,a,t,i,c, ,l,i,t,e,r,a,t,u,r,e, ,r,e,v,i,e,w
+l,e,v,e,r,a,g,i,n,g, ,m,a,c,h,i,n,e, ,l,e,a,r,n,i,n,g, ,f,o,r, ,a,u,t,o,m,a,t,i,c, ,t,o,p,i,c, ,d,i,s,c,o,v,e,r,y, ,a,n,d, ,f,o,r,e,c,a,s,t,i,n,g, ,o,f, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,r,e,s,e,a,r,c,h, ,a, ,l,i,t,e,r,a,t,u,r,e, ,r,e,v,i,e,w
+p,r,o,c,e,s,s, ,d,a,t,a, ,q,u,a,l,i,t,y, ,t,h,e, ,t,r,u,e, ,f,r,o,n,t,i,e,r, ,o,f, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+c,o,n,c,e,p,t, ,d,r,i,f,t, ,d,e,t,e,c,t,i,o,n, ,a,n,d, ,l,o,c,a,l,i,z,a,t,i,o,n, ,f,r,a,m,e,w,o,r,k, ,b,a,s,e,d, ,o,n, ,b,e,h,a,v,i,o,r, ,r,e,p,l,a,c,e,m,e,n,t
+a, ,b,e,n,c,h,m,a,r,k, ,o,f, ,p,r,o,c,e,s,s, ,d,r,i,f,t, ,d,e,t,e,c,t,i,o,n, ,t,o,o,l,s, ,e,x,p,e,r,i,m,e,n,t,a,l, ,p,r,o,t,o,c,o,l, ,a,n,d, ,s,t,a,t,i,s,t,i,c,a,l, ,a,n,a,l,y,s,i,s
+e,x,p,l,o,i,t,i,n,g, ,a, ,c,o,m,b,i,n,e,d, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,a,p,p,r,o,a,c,h, ,t,o, ,e,n,h,a,n,c,e, ,t,h,e, ,d,i,s,c,o,v,e,r,y, ,a,n,d, ,a,n,a,l,y,s,i,s, ,o,f, ,s,u,p,p,o,r,t, ,p,r,o,c,e,s,s,e,s, ,i,n, ,m,a,n,u,f,a,c,t,u,r,i,n,g
+a, ,m,u,l,t,i, ,c,o,m,p,o,n,e,n,t,s, ,a,p,p,r,o,a,c,h, ,t,o, ,m,o,n,i,t,o,r,i,n,g, ,p,r,o,c,e,s,s, ,s,t,r,u,c,t,u,r,e, ,a,n,d, ,c,u,s,t,o,m,e,r, ,b,e,h,a,v,i,o,u,r, ,c,o,n,c,e,p,t, ,d,r,i,f,t
+a,n, ,e,x,p,e,r,i,m,e,n,t,a,l, ,e,v,a,l,u,a,t,i,o,n, ,o,f, ,p,r,o,c,e,s,s, ,c,o,n,c,e,p,t, ,d,r,i,f,t, ,d,e,t,e,c,t,i,o,n
+d,a,t,a, ,p,r,e,p,r,o,c,e,s,s,i,n,g, ,m,e,t,h,o,d, ,a,n,d, ,a,p,i, ,f,o,r, ,m,i,n,i,n,g, ,p,r,o,c,e,s,s,e,s, ,f,r,o,m, ,c,l,o,u,d, ,b,a,s,e,d, ,a,p,p,l,i,c,a,t,i,o,n, ,e,v,e,n,t, ,l,o,g,s
+g,r,a,p,h, ,b,a,s,e,d, ,f,e,a,t,u,r,e, ,e,x,t,r,a,c,t,i,o,n, ,o,n, ,o,b,j,e,c,t, ,c,e,n,t,r,i,c, ,e,v,e,n,t, ,l,o,g,s
+i,n,t,e,g,r,a,t,e,d, ,d,e,t,e,c,t,i,o,n, ,a,n,d, ,l,o,c,a,l,i,z,a,t,i,o,n, ,o,f, ,c,o,n,c,e,p,t, ,d,r,i,f,t,s, ,i,n, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,w,i,t,h, ,b,a,t,c,h, ,a,n,d, ,s,t,r,e,a,m, ,t,r,a,c,e, ,c,l,u,s,t,e,r,i,n,g, ,s,u,p,p,o,r,t
+t,c,t,v, ,t,r,a,c,e, ,c,l,u,s,t,e,r,i,n,g, ,c,o,n,s,i,d,e,r,i,n,g, ,i,n,t,r,a, ,a,n,d, ,i,n,t,e,r, ,c,l,u,s,t,e,r, ,s,i,m,i,l,a,r,i,t,y, ,b,a,s,e,d, ,o,n, ,t,r,a,c,e, ,v,a,r,i,a,n,t,s
+a, ,s,u,r,v,e,y, ,o,n, ,r,e,c,o,m,m,e,n,d,a,t,i,o,n, ,i,n, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+c,o,n,c,e,p,t, ,d,r,i,f,t, ,e,s,t,i,m,a,t,i,o,n, ,w,i,t,h, ,g,r,a,p,h,i,c,a,l, ,m,o,d,e,l,s
+c,o,n,t,i,n,u,o,u,s, ,d,i,s,c,o,v,e,r,y, ,o,f, ,c,a,u,s,a,l, ,n,e,t,s, ,f,o,r, ,n,o,n, ,s,t,a,t,i,o,n,a,r,y, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s,e,s, ,u,s,i,n,g, ,t,h,e, ,o,n,l,i,n,e, ,m,i,n,e,r
+e,v,e,n,t, ,c,a,s,e, ,c,o,r,r,e,l,a,t,i,o,n, ,f,o,r, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,u,s,i,n,g, ,p,r,o,b,a,b,i,l,i,s,t,i,c, ,o,p,t,i,m,i,z,a,t,i,o,n
+p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,f,o,r, ,s,o,c,i,a,l, ,a,n,d, ,e,c,o,n,o,m,i,c, ,n,e,e,d,s, ,a,n, ,i,n,t,r,o,d,u,c,t,i,o,n
+p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,d,i,s,c,o,v,e,r,y, ,t,e,c,h,n,i,q,u,e,s, ,f,o,r, ,s,o,f,t,w,a,r,e, ,a,r,c,h,i,t,e,c,t,u,r,e, ,l,i,g,h,t,w,e,i,g,h,t, ,e,v,a,l,u,a,t,i,o,n, ,f,r,a,m,e,w,o,r,k
+a, ,s,u,r,v,e,y, ,o,n, ,t,h,e, ,a,p,p,l,i,c,a,t,i,o,n, ,o,f, ,p,r,o,c,e,s,s, ,d,i,s,c,o,v,e,r,y, ,t,e,c,h,n,i,q,u,e,s, ,t,o, ,s,m,a,r,t, ,s,p,a,c,e,s, ,d,a,t,a
+g,r,a,s,p,e,d, ,a, ,g,r,u, ,a,e, ,n,e,t,w,o,r,k, ,b,a,s,e,d, ,m,u,l,t,i, ,p,e,r,s,p,e,c,t,i,v,e, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s, ,a,n,o,m,a,l,y, ,d,e,t,e,c,t,i,o,n, ,m,o,d,e,l
+r,o,b,o,t,i,c, ,p,r,o,c,e,s,s, ,a,u,t,o,m,a,t,i,o,n, ,u,s,i,n,g, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,a, ,s,y,s,t,e,m,a,t,i,c, ,l,i,t,e,r,a,t,u,r,e, ,r,e,v,i,e,w
+i,n,t,e,r,n,e,t, ,o,f, ,p,r,o,c,e,s,s,e,s, ,a,n,d, ,t,h,i,n,g,s, ,a, ,r,e,p,o,s,i,t,o,r,y, ,f,o,r, ,i,o,t, ,e,n,r,i,c,h,e,d, ,e,v,e,n,t, ,l,o,g,s, ,i,n, ,s,m,a,r,t, ,e,n,v,i,r,o,n,m,e,n,t,s
+s,y,s,t,e,m,a,t,i,c, ,m,a,p,p,i,n,g, ,r,e,v,i,e,w, ,o,n, ,l,o,g, ,p,r,e,p,a,r,a,t,i,o,n, ,f,o,r, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+x,p,m, ,e,n,h,a,n,c,i,n,g, ,e,x,o,g,e,n,o,u,s, ,d,a,t,a, ,v,i,s,i,b,i,l,i,t,y
+f,r,o,m, ,p,r,o,c,e,s,s, ,a,g,n,o,s,t,i,c, ,t,o, ,p,r,o,c,e,s,s, ,a,w,a,r,e, ,a,u,t,o,m,a,t,i,o,n, ,m,i,n,i,n,g, ,a,n,d, ,p,r,e,d,i,c,t,i,o,n
+t,r,a,n,s,i,t,i,o,n, ,d,r,i,v,e,n, ,t,i,m,e, ,p,r,e,d,i,c,t,i,o,n, ,f,o,r, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s,e,s, ,w,i,t,h, ,c,y,c,l,e,s
+p,g,r,a,p,h,d, ,m,e,t,h,o,d,s, ,f,o,r, ,d,r,i,f,t, ,d,e,t,e,c,t,i,o,n, ,a,n,d, ,l,o,c,a,l,i,s,a,t,i,o,n, ,u,s,i,n,g, ,d,e,e,p, ,l,e,a,r,n,i,n,g, ,m,o,d,e,l,l,i,n,g, ,o,f, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s,e,s
+f,i,n,a,n,c,i,a,l, ,f,r,a,u,d, ,a, ,r,e,v,i,e,w, ,o,f, ,a,n,o,m,a,l,y, ,d,e,t,e,c,t,i,o,n, ,t,e,c,h,n,i,q,u,e,s, ,a,n,d, ,r,e,c,e,n,t, ,a,d,v,a,n,c,e,s
+r,e,v,i,s,i,t,i,n,g, ,t,h,e, ,t,r,a,n,s,i,t,i,o,n, ,m,a,t,r,i,x, ,b,a,s,e,d, ,c,o,n,c,e,p,t, ,d,r,i,f,t, ,a,p,p,r,o,a,c,h, ,i,m,p,r,o,v,i,n,g, ,t,h,e, ,d,e,t,e,c,t,i,o,n, ,t,a,s,k, ,r,e,l,i,a,b,i,l,i,t,y, ,t,h,r,o,u,g,h, ,a,d,d,i,t,i,o,n,a,l, ,e,x,p,e,r,i,m,e,n,t,a,t,i,o,n
+o,n,l,i,n,e, ,c,o,r,r,e,l,a,t,i,o,n, ,f,o,r, ,u,n,l,a,b,e,l,e,d, ,p,r,o,c,e,s,s, ,e,v,e,n,t,s, ,a, ,f,l,e,x,i,b,l,e, ,c,e,p, ,b,a,s,e,d, ,a,p,p,r,o,a,c,h
+d,a,t,a,s,t,r,e,a,m, ,x,e,s, ,e,x,t,e,n,s,i,o,n, ,e,m,b,e,d,d,i,n,g, ,i,o,t, ,s,e,n,s,o,r, ,d,a,t,a, ,i,n,t,o, ,e,x,t,e,n,s,i,b,l,e, ,e,v,e,n,t, ,s,t,r,e,a,m, ,l,o,g,s
+d,y,l,o,p,r,o, ,p,r,o,f,i,l,i,n,g, ,t,h,e, ,d,y,n,a,m,i,c,s, ,o,f, ,e,v,e,n,t, ,l,o,g,s
+a, ,s,u,r,v,e,y, ,o,f, ,l,o,g, ,d,i,v,i,s,i,o,n, ,t,e,c,h,n,i,q,u,e, ,i,n, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+a, ,t,o,o,l, ,f,o,r, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s,e,s, ,d,i,a,g,n,o,s,t,i,c,s
+m,a,t,c,h,i,n,g, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s, ,b,e,h,a,v,i,o,r, ,w,i,t,h, ,e,n,c,o,d,i,n,g, ,t,e,c,h,n,i,q,u,e,s, ,v,i,a, ,m,e,t,a, ,l,e,a,r,n,i,n,g, ,a,n, ,a,n,o,m,a,l,y, ,d,e,t,e,c,t,i,o,n, ,s,t,u,d,y
+a,n, ,a,d,a,p,t,i,v,e, ,i,m,b,a,l,a,n,c,e, ,m,o,d,i,f,i,e,d, ,o,n,l,i,n,e, ,b,r,o,a,d, ,l,e,a,r,n,i,n,g, ,s,y,s,t,e,m, ,b,a,s,e,d, ,f,a,u,l,t, ,d,i,a,g,n,o,s,i,s, ,f,o,r, ,i,m,b,a,l,a,n,c,e,d, ,c,h,e,m,i,c,a,l, ,p,r,o,c,e,s,s, ,d,a,t,a, ,s,t,r,e,a,m
+u,n,c,o,v,e,r,i,n,g, ,c,h,a,n,g,e, ,a, ,s,t,r,e,a,m,i,n,g, ,a,p,p,r,o,a,c,h, ,f,o,r, ,d,e,c,l,a,r,a,t,i,v,e, ,p,r,o,c,e,s,s,e,s
+d,e,t,e,c,t,i,n,g, ,m,o,d,e,l, ,c,h,a,n,g,e,s, ,i,n, ,o,r,g,a,n,i,s,a,t,i,o,n,a,l, ,p,r,o,c,e,s,s,e,s, ,a, ,c,l,o,u,d, ,b,a,s,e,d, ,a,p,p,r,o,a,c,h
+r,a,d,a,r, ,r,e,a,c,t,i,v,e, ,c,o,n,c,e,p,t, ,d,r,i,f,t, ,m,a,n,a,g,e,m,e,n,t, ,w,i,t,h, ,r,o,b,u,s,t, ,v,a,r,i,a,t,i,o,n,a,l, ,i,n,f,e,r,e,n,c,e, ,f,o,r, ,e,v,o,l,v,i,n,g, ,i,o,t, ,d,a,t,a, ,s,t,r,e,a,m,s
+p,r,o,c,e,s,s, ,d,r,i,f,t, ,d,e,t,e,c,t,i,o,n, ,i,n, ,e,v,e,n,t, ,l,o,g,s, ,w,i,t,h, ,g,r,a,p,h, ,c,o,n,v,o,l,u,t,i,o,n,a,l, ,n,e,t,w,o,r,k,s
+b,a,g,g,i,n,g, ,r,e,c,u,r,r,e,n,t, ,e,v,e,n,t, ,i,m,p,u,t,a,t,i,o,n, ,f,o,r, ,r,e,p,a,i,r, ,o,f, ,i,m,p,e,r,f,e,c,t, ,e,v,e,n,t, ,l,o,g, ,w,i,t,h, ,m,i,s,s,i,n,g, ,c,a,t,e,g,o,r,i,c,a,l, ,e,v,e,n,t,s
+m,a,n,a,g,i,n,g, ,v,a,r,i,a,b,i,l,i,t,y, ,o,f, ,l,a,r,g,e, ,p,u,b,l,i,c, ,a,d,m,i,n,i,s,t,r,a,t,i,o,n, ,e,v,e,n,t, ,l,o,g, ,c,o,l,l,e,c,t,i,o,n,s, ,d,e,a,l,i,n,g, ,w,i,t,h, ,c,o,n,c,e,p,t, ,d,r,i,f,t
+d,e,e,p, ,r,e,i,n,f,o,r,c,e,m,e,n,t, ,l,e,a,r,n,i,n,g, ,f,o,r, ,d,a,t,a, ,e,f,f,i,c,i,e,n,t, ,w,e,a,k,l,y, ,s,u,p,e,r,v,i,s,e,d, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s, ,a,n,o,m,a,l,y, ,d,e,t,e,c,t,i,o,n
+p,r,e,d,i,c,t,i,v,e, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s, ,m,o,n,i,t,o,r,i,n,g, ,a,p,p,r,o,a,c,h, ,b,a,s,e,d, ,o,n, ,h,i,e,r,a,r,c,h,i,c,a,l, ,t,r,a,n,s,f,o,r,m,e,r
+p,r,e,f,i,x,c,d,d, ,e,f,f,e,c,t,i,v,e, ,o,n,l,i,n,e, ,c,o,n,c,e,p,t, ,d,r,i,f,t, ,d,e,t,e,c,t,i,o,n, ,o,v,e,r, ,e,v,e,n,t, ,s,t,r,e,a,m,s, ,u,s,i,n,g, ,p,r,e,f,i,x, ,t,r,e,e,s
+p,r,e,d,i,c,t,i,n,g, ,u,n,s,e,e,n, ,p,r,o,c,e,s,s, ,b,e,h,a,v,i,o,r, ,b,a,s,e,d, ,o,n, ,c,o,n,t,e,x,t, ,i,n,f,o,r,m,a,t,i,o,n, ,f,r,o,m, ,c,o,m,p,l,i,a,n,c,e, ,c,o,n,s,t,r,a,i,n,t,s
+a,i,m,e,d, ,a,n, ,a,u,t,o,m,a,t,i,c, ,a,n,d, ,i,n,c,r,e,m,e,n,t,a,l, ,a,p,p,r,o,a,c,h, ,f,o,r, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s, ,m,o,d,e,l, ,r,e,p,a,i,r, ,u,n,d,e,r, ,c,o,n,c,e,p,t, ,d,r,i,f,t
+s,t,a,r,d,u,s,t, ,a, ,n,o,v,e,l, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,a,p,p,r,o,a,c,h, ,t,o, ,d,i,s,c,o,v,e,r, ,e,v,o,l,v,i,n,g, ,m,o,d,e,l,s, ,f,r,o,m, ,t,r,a,c,e, ,s,t,r,e,a,m,s
+t,r,a,c,e, ,e,n,c,o,d,i,n,g, ,i,n, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,a, ,s,u,r,v,e,y, ,a,n,d, ,b,e,n,c,h,m,a,r,k,i,n,g
+o,n, ,t,h,e, ,u,s,e, ,o,f, ,d,o,m,a,i,n, ,k,n,o,w,l,e,d,g,e, ,f,o,r, ,p,r,o,c,e,s,s, ,m,o,d,e,l, ,r,e,p,a,i,r
+p,e,r,f,o,r,m,a,n,c,e, ,p,r,e,s,e,r,v,i,n,g, ,e,v,e,n,t, ,l,o,g, ,s,a,m,p,l,i,n,g, ,f,o,r, ,p,r,e,d,i,c,t,i,v,e, ,m,o,n,i,t,o,r,i,n,g
+a, ,p,r,o,c,e,s,s, ,a,w,a,r,e, ,d,e,c,i,s,i,o,n, ,s,u,p,p,o,r,t, ,s,y,s,t,e,m, ,f,o,r, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s,e,s
+s,t,o,c,h,a,s,t,i,c, ,a,w,a,r,e, ,p,r,e,c,i,s,i,o,n, ,a,n,d, ,r,e,c,a,l,l, ,m,e,a,s,u,r,e,s, ,f,o,r, ,c,o,n,f,o,r,m,a,n,c,e, ,c,h,e,c,k,i,n,g, ,i,n, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+a,n, ,i,n,t,e,r,a,c,t,i,v,e, ,m,e,t,h,o,d, ,f,o,r, ,d,e,t,e,c,t,i,o,n, ,o,f, ,p,r,o,c,e,s,s, ,a,c,t,i,v,i,t,y, ,e,x,e,c,u,t,i,o,n,s, ,f,r,o,m, ,i,o,t, ,d,a,t,a
+c,o,u,n,t,e,r,f,a,c,t,u,a,l, ,e,x,p,l,a,n,a,b,i,l,i,t,y, ,a,n, ,a,p,p,l,i,c,a,t,i,o,n, ,o,f, ,c,a,u,s,a,l, ,i,n,f,e,r,e,n,c,e, ,i,n, ,a, ,f,i,n,a,n,c,i,a,l, ,s,e,c,t,o,r, ,d,e,l,i,v,e,r,y, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s
+p,a,r,t,i,a,l, ,o,r,d,e,r, ,b,a,s,e,d, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,a, ,s,u,r,v,e,y, ,a,n,d, ,o,u,t,l,o,o,k
+a, ,l,i,t,e,r,a,t,u,r,e, ,r,e,v,i,e,w, ,o,f, ,f,a,u,l,t, ,d,i,a,g,n,o,s,i,s, ,b,a,s,e,d, ,o,n, ,e,n,s,e,m,b,l,e, ,l,e,a,r,n,i,n,g
+o,n,l,i,n,e, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,a, ,s,y,s,t,e,m,a,t,i,c, ,l,i,t,e,r,a,t,u,r,e, ,r,e,v,i,e,w
+g,e,n,e,r,a,t,i,n,g, ,m,u,l,t,i, ,l,e,v,e,l, ,e,x,p,l,a,n,a,t,i,o,n,s, ,f,o,r, ,p,r,o,c,e,s,s, ,o,u,t,c,o,m,e, ,p,r,e,d,i,c,t,i,o,n,s
+a,l,g,o,r,i,t,h,m, ,r,e,c,o,m,m,e,n,d,a,t,i,o,n, ,a,n,d, ,p,e,r,f,o,r,m,a,n,c,e, ,p,r,e,d,i,c,t,i,o,n, ,u,s,i,n,g, ,m,e,t,a, ,l,e,a,r,n,i,n,g
+t,o,w,a,r,d,s, ,a, ,b,u,s,i,n,e,s,s, ,o,r,i,e,n,t,e,d, ,a,p,p,r,o,a,c,h, ,t,o, ,v,i,s,u,a,l,i,z,a,t,i,o,n, ,s,u,p,p,o,r,t,e,d, ,i,n,t,e,r,p,r,e,t,a,b,i,l,i,t,y, ,o,f, ,p,r,e,d,i,c,t,i,o,n, ,r,e,s,u,l,t,s, ,i,n, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+d,e,t,e,c,t,i,n,g, ,c,r,o,s,s, ,c,a,s,e, ,a,s,s,o,c,i,a,t,i,o,n,s, ,i,n, ,a,n, ,e,v,e,n,t, ,l,o,g, ,t,o,w,a,r,d, ,a, ,p,a,t,t,e,r,n, ,b,a,s,e,d, ,d,e,t,e,c,t,i,o,n
+p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,f,o,r, ,h,e,a,l,t,h,c,a,r,e, ,c,h,a,r,a,c,t,e,r,i,s,t,i,c,s, ,a,n,d, ,c,h,a,l,l,e,n,g,e,s
+a, ,m,e,t,h,o,d, ,f,o,r, ,b,o,t,t,l,e,n,e,c,k, ,d,e,t,e,c,t,i,o,n, ,p,r,e,d,i,c,t,i,o,n, ,a,n,d, ,r,e,c,o,m,m,e,n,d,a,t,i,o,n, ,u,s,i,n,g, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,t,e,c,h,n,i,q,u,e,s
+a, ,c,o,n,f,o,r,m,a,n,c,e, ,c,h,e,c,k,i,n,g, ,b,a,s,e,d, ,a,p,p,r,o,a,c,h, ,f,o,r, ,s,u,d,d,e,n, ,d,r,i,f,t, ,d,e,t,e,c,t,i,o,n, ,i,n, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s,e,s
+w,o,r,k,a,r,o,u,n,d,s, ,a,s, ,g,e,n,e,r,a,t,i,v,e, ,m,e,c,h,a,n,i,s,m,s, ,f,o,r, ,b,o,t,t,o,m, ,u,p, ,p,r,o,c,e,s,s, ,i,n,n,o,v,a,t,i,o,n, ,i,n,s,i,g,h,t,s, ,f,r,o,m, ,a, ,m,u,l,t,i,p,l,e, ,c,a,s,e, ,s,t,u,d,y
+c,o,n,c,e,p,t, ,d,r,i,f,t, ,h,a,n,d,l,i,n,g, ,a, ,d,o,m,a,i,n, ,a,d,a,p,t,a,t,i,o,n, ,p,e,r,s,p,e,c,t,i,v,e
+a,d,d,r,e,s,s,i,n,g, ,c,o,n,v,e,r,g,e,n,c,e, ,d,i,v,e,r,g,e,n,c,e, ,a,n,d, ,d,e,f,i,c,i,e,n,c,y, ,i,s,s,u,e,s
+e,n,h,a,t, ,s,y,n,e,r,g,y, ,o,f, ,a, ,t,r,e,e, ,b,a,s,e,d, ,e,n,s,e,m,b,l,e, ,w,i,t,h, ,h,o,e,f,f,d,i,n,g, ,a,d,a,p,t,i,v,e, ,t,r,e,e, ,f,o,r, ,d,y,n,a,m,i,c, ,d,a,t,a, ,s,t,r,e,a,m,s, ,m,i,n,i,n,g
+h,o,w, ,d,o, ,i, ,u,p,d,a,t,e, ,m,y, ,m,o,d,e,l, ,o,n, ,t,h,e, ,r,e,s,i,l,i,e,n,c,e, ,o,f, ,p,r,e,d,i,c,t,i,v,e, ,p,r,o,c,e,s,s, ,m,o,n,i,t,o,r,i,n,g, ,m,o,d,e,l,s, ,t,o, ,c,h,a,n,g,e
+h,a,n,d,l,i,n,g, ,c,o,n,c,e,p,t, ,d,r,i,f,t, ,i,n, ,d,a,t,a, ,s,t,r,e,a,m, ,m,i,n,i,n,g, ,o,f, ,e,v,e,n,t, ,l,o,g,s, ,u,s,i,n,g, ,h,y,b,r,i,d, ,o,p,t,i,m,i,z,a,t,i,o,n, ,a,l,g,o,r,i,t,h,m
+l,e,a,r,n,i,n,g, ,d,a,t,a, ,s,t,r,e,a,m,s, ,w,i,t,h, ,c,h,a,n,g,i,n,g, ,d,i,s,t,r,i,b,u,t,i,o,n,s, ,a,n,d, ,t,e,m,p,o,r,a,l, ,d,e,p,e,n,d,e,n,c,y
+a, ,s,y,s,t,e,m,a,t,i,c, ,l,i,t,e,r,a,t,u,r,e, ,r,e,v,i,e,w, ,o,n, ,t,h,e, ,a,p,p,l,i,c,a,t,i,o,n, ,o,f, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,t,o, ,i,n,d,u,s,t,r,y, ,4, ,0
+m,e,a,s,u,r,i,n,g, ,r,u,l,e, ,b,a,s,e,d, ,l,t,l,f, ,p,r,o,c,e,s,s, ,s,p,e,c,i,f,i,c,a,t,i,o,n,s, ,a, ,p,r,o,b,a,b,i,l,i,s,t,i,c, ,d,a,t,a, ,d,r,i,v,e,n, ,a,p,p,r,o,a,c,h
+p,r,o,c,e,s,s,i,n,g, ,d,a,t,a, ,s,t,r,e,a,m, ,w,i,t,h, ,c,h,u,n,k, ,s,i,m,i,l,a,r,i,t,y, ,m,o,d,e,l, ,s,e,l,e,c,t,i,o,n
+c,l,u,s,t,e,r,i,n,g, ,r,a,w, ,s,e,n,s,o,r, ,d,a,t,a, ,i,n, ,p,r,o,c,e,s,s, ,l,o,g,s, ,t,o, ,d,e,t,e,c,t, ,d,a,t,a, ,s,t,r,e,a,m,s
+d,a,r,w,i,n, ,a,n, ,o,n,l,i,n,e, ,d,e,e,p, ,l,e,a,r,n,i,n,g, ,a,p,p,r,o,a,c,h, ,t,o, ,h,a,n,d,l,e, ,c,o,n,c,e,p,t, ,d,r,i,f,t,s, ,i,n, ,p,r,e,d,i,c,t,i,v,e, ,p,r,o,c,e,s,s, ,m,o,n,i,t,o,r,i,n,g
+a,t,t,r,i,b,u,t,e, ,b,a,s,e,d, ,c,o,n,f,o,r,m,a,n,c,e, ,d,i,a,g,n,o,s,i,s, ,c,o,r,r,e,l,a,t,i,n,g, ,t,r,a,c,e, ,a,t,t,r,i,b,u,t,e,s, ,w,i,t,h, ,p,r,o,c,e,s,s, ,c,o,n,f,o,r,m,a,n,c,e
+s,e,m,i, ,m,a,r,k,o,v, ,m,o,d,e,l,s, ,f,o,r, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,i,n, ,s,m,a,r,t, ,h,o,m,e,s
+p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,d,i,s,c,o,v,e,r,y, ,c,o,n,f,o,r,m,a,n,c,e, ,a,n,d, ,e,n,h,a,n,c,e,m,e,n,t, ,o,f, ,m,a,n,u,f,a,c,t,u,r,i,n,g, ,p,r,o,c,e,s,s,e,s
+d,e,t,e,c,t,i,n,g, ,a,n,d, ,r,e,s,p,o,n,d,i,n,g, ,t,o, ,c,o,n,c,e,p,t, ,d,r,i,f,t, ,i,n, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s,e,s
+e,x,o,g,e,n,o,u,s, ,s,h,o,c,k,s, ,a,n,d, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s, ,m,a,n,a,g,e,m,e,n,t, ,a, ,s,c,h,o,l,a,r,s, ,p,e,r,s,p,e,c,t,i,v,e, ,o,n, ,c,h,a,l,l,e,n,g,e,s, ,a,n,d, ,o,p,p,o,r,t,u,n,i,t,i,e,s
+t,h,e, ,p,e,r,f,o,r,m,a,n,c,e, ,a,s,s,e,s,s,m,e,n,t, ,f,r,a,m,e,w,o,r,k, ,p,p,a,f,r, ,f,o,r, ,r,p,a, ,i,m,p,l,e,m,e,n,t,a,t,i,o,n, ,i,n, ,a, ,l,o,a,n, ,a,p,p,l,i,c,a,t,i,o,n, ,p,r,o,c,e,s,s, ,u,s,i,n,g, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+b,e,n,c,h,m,a,r,k,i,n,g, ,c,h,a,n,g,e, ,d,e,t,e,c,t,o,r, ,a,l,g,o,r,i,t,h,m,s, ,f,r,o,m, ,d,i,f,f,e,r,e,n,t, ,c,o,n,c,e,p,t, ,d,r,i,f,t, ,p,e,r,s,p,e,c,t,i,v,e,s
+a, ,s,u,r,v,e,y, ,o,n, ,c,o,n,c,e,p,t, ,d,r,i,f,t, ,i,n, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+l,i,t,e,r,a,t,u,r,e, ,r,e,v,i,e,w, ,o,n, ,i,n,t,e,n,t,i,o,n, ,m,i,n,i,n,g, ,o,r,i,e,n,t,e,d, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,i,n, ,i,n,f,o,r,m,a,t,i,o,n, ,s,y,s,t,e,m
+p,r,e,d,i,c,t,i,v,e, ,e,n,d, ,t,o, ,e,n,d, ,e,n,t,e,r,p,r,i,s,e, ,p,r,o,c,e,s,s, ,n,e,t,w,o,r,k, ,m,o,n,i,t,o,r,i,n,g
+a,n, ,e,n,d, ,t,o, ,e,n,d, ,a,p,p,r,o,a,c,h, ,f,o,r, ,o,n,l,i,n,e, ,d,e,c,i,s,i,o,n, ,m,i,n,i,n,g, ,a,n,d, ,d,e,c,i,s,i,o,n, ,d,r,i,f,t, ,a,n,a,l,y,s,i,s, ,i,n, ,p,r,o,c,e,s,s, ,a,w,a,r,e, ,i,n,f,o,r,m,a,t,i,o,n, ,s,y,s,t,e,m,s
+e,x,p,l,a,i,n,a,b,l,e, ,c,o,n,c,e,p,t, ,d,r,i,f,t, ,i,n, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+a,n,a,l,y,s,i,s, ,o,f, ,a,u,t,o,m,a,t,e,d, ,g,u,i,d,e,d, ,v,e,h,i,c,l,e,s, ,p,e,r,f,o,r,m,a,n,c,e, ,b,a,s,e,d, ,o,n, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,t,e,c,h,n,i,q,u,e,s
+v,i,s,u,a,l, ,d,r,i,f,t, ,d,e,t,e,c,t,i,o,n, ,f,o,r, ,e,v,e,n,t, ,s,e,q,u,e,n,c,e, ,d,a,t,a, ,o,f, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s,e,s
+t,r,a,n,s,f,o,r,m,i,n,g, ,e,v,e,n,t, ,k,n,o,w,l,e,d,g,e, ,g,r,a,p,h, ,t,o, ,o,b,j,e,c,t, ,c,e,n,t,r,i,c, ,e,v,e,n,t, ,l,o,g,s, ,a, ,c,o,m,p,a,r,a,t,i,v,e, ,s,t,u,d,y, ,f,o,r, ,m,u,l,t,i, ,d,i,m,e,n,s,i,o,n,a,l, ,p,r,o,c,e,s,s, ,a,n,a,l,y,s,i,s
+a,u,t,o,m,a,t,i,c, ,m,o,d,e,l, ,g,e,n,e,r,a,t,i,o,n, ,a,n,d, ,d,a,t,a, ,a,s,s,i,m,i,l,a,t,i,o,n, ,f,r,a,m,e,w,o,r,k, ,f,o,r, ,c,y,b,e,r, ,p,h,y,s,i,c,a,l, ,p,r,o,d,u,c,t,i,o,n, ,s,y,s,t,e,m,s
+m,e,a,s,u,r,i,n,g, ,t,h,e, ,s,t,a,b,i,l,i,t,y, ,o,f, ,p,r,o,c,e,s,s, ,o,u,t,c,o,m,e, ,p,r,e,d,i,c,t,i,o,n,s, ,i,n, ,o,n,l,i,n,e, ,s,e,t,t,i,n,g,s
+u,s,i,n,g, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,f,o,r, ,w,o,r,k,a,r,o,u,n,d,s, ,a,n,a,l,y,s,i,s, ,i,n, ,c,o,n,t,e,x,t, ,l,e,a,r,n,i,n,g, ,f,r,o,m, ,a, ,s,m,a,l,l, ,a,n,d, ,m,e,d,i,u,m, ,s,i,z,e,d, ,c,o,m,p,a,n,y, ,c,a,s,e
+p,r,e,d,i,c,t,i,v,e, ,c,o,m,p,l,i,a,n,c,e, ,m,o,n,i,t,o,r,i,n,g, ,i,n, ,p,r,o,c,e,s,s, ,a,w,a,r,e, ,i,n,f,o,r,m,a,t,i,o,n, ,s,y,s,t,e,m,s, ,s,t,a,t,e, ,o,f, ,t,h,e, ,a,r,t, ,f,u,n,c,t,i,o,n,a,l,i,t,i,e,s, ,r,e,s,e,a,r,c,h, ,d,i,r,e,c,t,i,o,n,s
+a,u,t,o,m,a,t,i,c,a,l,l,y, ,r,e,c,o,n,c,i,l,i,n,g, ,t,h,e, ,t,r,a,d,e, ,o,f,f, ,b,e,t,w,e,e,n, ,p,r,e,d,i,c,t,i,o,n, ,a,c,c,u,r,a,c,y, ,a,n,d, ,e,a,r,l,i,n,e,s,s, ,i,n, ,p,r,e,s,c,r,i,p,t,i,v,e, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s, ,m,o,n,i,t,o,r,i,n,g
+t,o,w,a,r,d,s, ,a, ,t,r,a,n,s,i,t,i,o,n, ,m,a,t,r,i,x, ,b,a,s,e,d, ,c,o,n,c,e,p,t, ,d,r,i,f,t, ,a,p,p,r,o,a,c,h, ,e,x,p,e,r,i,m,e,n,t,s, ,o,n, ,t,h,e, ,d,e,t,e,c,t,i,o,n, ,t,a,s,k
+p,r,o,c,e,s,s, ,d,i,a,g,n,o,s,t,i,c,s, ,a,t, ,c,o,a,r,s,e, ,g,r,a,i,n,e,d, ,l,e,v,e,l,s
+o,n, ,e,n,a,b,l,i,n,g, ,g,d,p,r, ,c,o,m,p,l,i,a,n,c,e, ,i,n, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s,e,s, ,t,h,r,o,u,g,h, ,d,a,t,a, ,d,r,i,v,e,n, ,s,o,l,u,t,i,o,n,s
+t,h,e, ,a,n,a,l,y,s,i,s, ,o,f, ,o,n,l,i,n,e, ,e,v,e,n,t, ,s,t,r,e,a,m,s, ,p,r,e,d,i,c,t,i,n,g, ,t,h,e, ,n,e,x,t, ,a,c,t,i,v,i,t,y, ,f,o,r, ,a,n,o,m,a,l,y, ,d,e,t,e,c,t,i,o,n
+b,r,i,d,g,i,n,g, ,t,h,e, ,g,a,p, ,b,e,t,w,e,e,n, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,m,e,t,h,o,d,o,l,o,g,i,e,s, ,a,n,d, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,p,r,a,c,t,i,c,e,s, ,c,o,m,p,a,r,i,n,g, ,e,x,i,s,t,i,n,g, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,m,e,t,h,o,d,o,l,o,g,i,e,s, ,w,i,t,h, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,p,r,a,c,t,i,c,e,s, ,a,t, ,l,o,c,a,l, ,g,o,v,e,r,n,m,e,n,t,s, ,a,n,d, ,c,o,n,s,u,l,t,a,n,c,y, ,f,i,r,m,s, ,i,n, ,t,h,e, ,n,e,t,h,e,r,l,a,n,d,s
+c,a,t,c,h, ,m,e, ,i,f, ,y,o,u, ,c,a,n, ,o,n,l,i,n,e, ,c,l,a,s,s,i,f,i,c,a,t,i,o,n, ,f,o,r, ,n,e,a,r, ,r,e,a,l, ,t,i,m,e, ,a,n,o,m,a,l,y, ,d,e,t,e,c,t,i,o,n, ,i,n, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s, ,e,v,e,n,t, ,s,t,r,e,a,m,s
+a,c,t,i,o,n, ,o,r,i,e,n,t,e,d, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,b,r,i,d,g,i,n,g, ,t,h,e, ,g,a,p, ,b,e,t,w,e,e,n, ,i,n,s,i,g,h,t,s, ,a,n,d, ,a,c,t,i,o,n,s
+a,b,s,t,r,a,c,t,i,n,g, ,l,o,w, ,l,e,v,e,l, ,e,v,e,n,t, ,d,a,t,a, ,f,o,r, ,m,e,a,n,i,n,g,f,u,l, ,p,r,o,c,e,s,s, ,a,n,a,l,y,s,i,s
+v,i,s,u,a,l, ,a,n,a,l,y,t,i,c,s, ,i,n, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,f,o,r, ,s,u,p,p,o,r,t,i,n,g, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s, ,i,m,p,r,o,v,e,m,e,n,t
+p,r,o,c,e,s,s, ,m,i,n,i,n,g
+o,n,l,i,n,e, ,d,e,c,i,s,i,o,n, ,m,i,n,i,n,g, ,a,n,d, ,m,o,n,i,t,o,r,i,n,g, ,i,n, ,p,r,o,c,e,s,s, ,a,w,a,r,e, ,i,n,f,o,r,m,a,t,i,o,n, ,s,y,s,t,e,m,s
+d,i,s,c,o,v,e,r,i,n,g, ,i,n,s,t,a,n,c,e, ,s,p,a,n,n,i,n,g, ,e,x,c,e,p,t,i,o,n,s, ,f,r,o,m, ,p,r,o,c,e,s,s, ,e,x,e,c,u,t,i,o,n, ,l,o,g,s
+k,e,e,p,i,n,g, ,o,u,r, ,r,i,v,e,r,s, ,c,l,e,a,n, ,i,n,f,o,r,m,a,t,i,o,n, ,t,h,e,o,r,e,t,i,c, ,o,n,l,i,n,e, ,a,n,o,m,a,l,y, ,d,e,t,e,c,t,i,o,n, ,f,o,r, ,s,t,r,e,a,m,i,n,g, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s, ,e,v,e,n,t,s
+c,d,l,g, ,a, ,t,o,o,l, ,f,o,r, ,t,h,e, ,g,e,n,e,r,a,t,i,o,n, ,o,f, ,e,v,e,n,t, ,l,o,g,s, ,w,i,t,h, ,c,o,n,c,e,p,t, ,d,r,i,f,t,s
+i,n,t,e,r,a,c,t,i,v,e, ,p,r,o,c,e,s,s, ,d,r,i,f,t, ,d,e,t,e,c,t,i,o,n, ,f,r,a,m,e,w,o,r,k
+a,l,g,o,r,i,t,h,m, ,f,o,r, ,s,i,n,g,l,e, ,f,i,r,i,n,g, ,s,e,q,u,e,n,c,e, ,s,u,d,d,e,n, ,d,r,i,f,t, ,d,e,t,e,c,t,i,o,n
+r,e,a,l, ,t,i,m,e, ,p,r,o,b,i,n,g, ,o,f, ,c,o,n,t,r,o,l, ,f,l,o,w, ,a,n,d, ,d,a,t,a, ,f,l,o,w, ,i,n, ,e,v,e,n,t, ,l,o,g,s
+s,e,l,e,c,t,i,n,g, ,o,p,t,i,m,a,l, ,t,r,a,c,e, ,c,l,u,s,t,e,r,i,n,g, ,p,i,p,e,l,i,n,e,s, ,w,i,t,h, ,m,e,t,a, ,l,e,a,r,n,i,n,g
+o,n,l,i,n,e, ,c,o,n,f,o,r,m,a,n,c,e, ,c,h,e,c,k,i,n,g, ,t,o, ,s,u,p,p,o,r,t, ,h,u,m,a,n, ,b,e,h,a,v,i,o,r, ,s,t,u,d,y
+p,r,o,c,e,s,s, ,d,u,r,a,t,i,o,n, ,m,o,d,e,l,l,i,n,g, ,a,n,d, ,c,o,n,c,e,p,t, ,d,r,i,f,t, ,d,e,t,e,c,t,i,o,n, ,f,o,r, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+m,u,l,t,i, ,p,e,r,s,p,e,c,t,i,v,e, ,a,n,a,l,y,s,i,s, ,o,f, ,p,r,o,c,e,s,s, ,d,y,n,a,m,i,c,s, ,e,x,t,e,n,d,e,d, ,a,b,s,t,r,a,c,t
+s,t,o,c,h,a,s,t,i,c, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+p,a,r,a,m,e,t,e,r, ,d,i,s,t,r,i,b,u,t,i,o,n, ,e,n,s,e,m,b,l,e, ,l,e,a,r,n,i,n,g, ,f,o,r, ,s,u,d,d,e,n, ,c,o,n,c,e,p,t, ,d,r,i,f,t, ,d,e,t,e,c,t,i,o,n
+a,p,p,l,y,i,n,g, ,c,h,a,n,g,e, ,t,r,e,e, ,m,e,t,h,o,d, ,i,n, ,c,o,n,f,i,g,u,r,a,b,l,e, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+a,s,s,e,s,s,i,n,g, ,t,h,e, ,i,m,p,a,c,t, ,o,f, ,c,o,n,t,e,x,t, ,d,a,t,a, ,o,n, ,p,r,o,c,e,s,s, ,o,u,t,c,o,m,e,s, ,d,u,r,i,n,g, ,r,u,n,t,i,m,e
+m,u,s,i,c, ,s,c,o,r,e, ,a,n,a,l,y,s,i,s, ,w,i,t,h, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,e,x,t,e,n,d,e,d, ,a,b,s,t,r,a,c,t
+l,e,v,e,r,a,g,i,n,g, ,f,r,e,q,u,e,n,c,i,e,s, ,i,n, ,e,v,e,n,t, ,d,a,t,a, ,a, ,p,l,e,d,g,e, ,f,o,r, ,s,t,o,c,h,a,s,t,i,c, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+i,n,t,e,r,a,c,t,i,v,e, ,p,r,o,c,e,s,s, ,d,r,i,f,t, ,d,e,t,e,c,t,i,o,n, ,a, ,f,r,a,m,e,w,o,r,k, ,f,o,r, ,v,i,s,u,a,l, ,a,n,a,l,y,s,i,s, ,o,f, ,p,r,o,c,e,s,s, ,d,r,i,f,t,s
+t,o,w,a,r,d,s, ,r,o,u,t,i,n,e,s, ,m,i,n,i,n,g, ,d,e,s,i,g,n,i,n,g, ,a,n,d, ,i,m,p,l,e,m,e,n,t,i,n,g, ,t,h,e, ,a,r,g,o,s, ,m,i,n,e,r, ,a, ,d,e,s,i,g,n, ,s,c,i,e,n,c,e, ,a,r,t,i,f,a,c,t, ,f,o,r, ,s,t,u,d,y,i,n,g, ,r,o,u,t,i,n,e, ,d,y,n,a,m,i,c,s, ,w,i,t,h, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+a, ,r,e,v,i,e,w, ,o,n, ,f,i,n,a,n,c,i,a,l, ,r,o,b,o,t, ,p,r,o,c,e,s,s, ,a,u,t,o, ,m,i,n,i,n,g, ,b,a,s,e,d, ,o,n, ,r,e,i,n,f,o,r,c,e,m,e,n,t, ,l,e,a,r,n,i,n,g
+s,t,r,u,c,t,u,r,a,l, ,a,n,d, ,b,e,h,a,v,i,o,r,a,l, ,b,i,a,s,e,s, ,i,n, ,p,r,o,c,e,s,s, ,c,o,m,p,a,r,i,s,o,n, ,u,s,i,n,g, ,m,o,d,e,l,s, ,a,n,d, ,l,o,g,s
+c,o,m,p,l,e,x, ,b,e,h,a,v,i,o,u,r,s, ,d,e,t,e,c,t,i,o,n, ,a,n,d, ,a,n,a,l,y,s,i,s, ,i,n, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+u,p,d,a,t,i,n,g, ,p,r,e,d,i,c,t,i,o,n, ,m,o,d,e,l,s, ,f,o,r, ,p,r,e,d,i,c,t,i,v,e, ,p,r,o,c,e,s,s, ,m,o,n,i,t,o,r,i,n,g
+h,i,g,h, ,l,e,v,e,l, ,e,v,e,n,t, ,m,i,n,i,n,g, ,a, ,f,r,a,m,e,w,o,r,k
+p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,a,s, ,a, ,t,i,m,e, ,s,e,r,i,e,s, ,a,n,a,l,y,s,i,s, ,t,o,o,l, ,v,i,a, ,c,o,n,f,o,r,m,a,n,c,e, ,c,h,e,c,k,i,n,g
+a,n, ,e,d,u,c,a,t,i,o,n, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,f,r,a,m,e,w,o,r,k, ,u,n,v,e,i,l,i,n,g, ,m,e,a,n,i,n,g,f,u,l, ,i,n,f,o,r,m,a,t,i,o,n, ,f,o,r, ,u,n,d,e,r,s,t,a,n,d,i,n,g, ,s,t,u,d,e,n,t,s, ,l,e,a,r,n,i,n,g, ,b,e,h,a,v,i,o,r, ,a,n,d, ,i,m,p,r,o,v,i,n,g, ,t,e,a,c,h,i,n,g, ,q,u,a,l,i,t,y
+r,e,c,o,m,m,e,n,d,i,n,g, ,n,e,x,t, ,b,e,s,t, ,s,k,i,l,l, ,i,n, ,c,o,n,v,e,r,s,a,t,i,o,n,a,l, ,r,o,b,o,t,i,c, ,p,r,o,c,e,s,s, ,a,u,t,o,m,a,t,i,o,n
+a,n, ,e,f,f,i,c,i,e,n,t, ,d,r,i,f,t, ,d,e,t,e,c,t,i,o,n, ,a,p,p,r,o,a,c,h, ,u,s,i,n,g, ,d,a,t,a, ,e,n,t,r,o,p,y, ,i,n, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s,e,s
+r,i,s,k, ,c,o,n,t,r,o,l, ,t,h,e,o,r,y, ,o,f, ,o,n,l,i,n,e, ,t,r,a,n,s,a,c,t,i,o,n,s
+s,t,r,e,a,m,i,n,g, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g
+o,n,l,i,n,e, ,i,n,c,r,e,m,e,n,t,a,l, ,m,i,n,i,n,g, ,b,a,s,e,d, ,o,n, ,t,r,u,s,t,e,d, ,b,e,h,a,v,i,o,r, ,i,n,t,e,r,v,a,l
+v,i,s,u,a,l,i,z,a,t,i,o,n, ,f,o,r, ,e,n,a,b,l,i,n,g, ,h,u,m,a,n, ,i,n, ,t,h,e, ,l,o,o,p, ,i,n, ,t,r,a,c,e, ,c,l,u,s,t,e,r,i,n,g, ,b,a,s,e,d, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,t,a,s,k,s
+a, ,s,u,r,v,e,y, ,o,n, ,d,a,t,a, ,s,t,r,e,a,m, ,a,n,a,l,y,t,i,c,s
+c,o,n,t,i,n,u,o,u,s, ,p,e,r,f,o,r,m,a,n,c,e, ,e,v,a,l,u,a,t,i,o,n, ,f,o,r, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s, ,o,u,t,c,o,m,e, ,m,o,n,i,t,o,r,i,n,g
+a,p,p,l,i,c,a,t,i,o,n, ,o,f, ,m,a,c,h,i,n,e, ,l,e,a,r,n,i,n,g, ,i,n, ,d,a,t,a, ,d,r,i,v,e,n, ,p,r,o,c,e,s,s, ,a,n,a,l,y,s,i,s, ,a, ,s,t,a,t,e, ,o,f, ,t,h,e, ,a,r,t, ,l,i,t,e,r,a,t,u,r,e, ,a,n,a,l,y,s,i,s, ,a,n,w,e,n,d,u,n,g, ,v,o,n, ,m,a,c,h,i,n,e, ,l,e,a,r,n,i,n,g, ,b,e,i, ,d,e,r, ,d,a,t,e,n,g,e,t,r,i,e,b,e,n,e,n, ,p,r,o,z,e,s,s,a,n,a,l,y,s,e, ,e,i,n,e, ,s,t,a,t,e, ,o,f, ,t,h,e, ,a,r,t, ,l,i,t,e,r,a,t,u,r,a,n,a,l,y,s,e
+o,n,l,i,n,e, ,i,n,c,r,e,m,e,n,t,a,l, ,u,p,d,a,t,i,n,g, ,f,o,r, ,m,o,d,e,l, ,e,n,h,a,n,c,e,m,e,n,t, ,b,a,s,e,d, ,o,n, ,m,u,l,t,i, ,p,e,r,s,p,e,c,t,i,v,e, ,t,r,u,s,t,e,d, ,i,n,t,e,r,v,a,l,s
+a,u,t,o,m,a,t,i,n,g, ,p,r,o,c,e,s,s, ,d,i,s,c,o,v,e,r,y, ,t,h,r,o,u,g,h, ,m,e,t,a, ,l,e,a,r,n,i,n,g
+o,n,l,i,n,e, ,m,o,d,e,l, ,g,e,n,e,r,a,t,i,o,n, ,f,o,r, ,s,c,a,l,a,b,l,e, ,p,r,e,d,i,c,t,i,v,e, ,p,r,o,c,e,s,s, ,m,o,n,i,t,o,r,i,n,g
+b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s, ,e,v,e,n,t, ,p,r,e,d,i,c,t,i,o,n, ,t,h,r,o,u,g,h, ,s,c,a,l,a,b,l,e, ,o,n,l,i,n,e, ,l,e,a,r,n,i,n,g
+s,e,m,a,n,t,i,c, ,c,o,m,p,u,t,i,n,g
+p,r,o,c,e,s,s, ,m,o,d,e,l,i,n,g, ,a,n,d, ,m,a,n,a,g,e,m,e,n,t, ,f,o,r, ,h,e,a,l,t,h,c,a,r,e
+t,h,e, ,s,t,a,t,e, ,o,f, ,t,h,e, ,a,r,t, ,o,f, ,b,u,s,i,n,e,s,s, ,p,r,o,c,e,s,s, ,m,i,n,i,n,g, ,c,h,a,l,l,e,n,g,e,s
