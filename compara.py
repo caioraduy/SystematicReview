@@ -29,10 +29,14 @@ def classificar_por_coluna(arquivo_csv, coluna_nome):
 
 # Nome do arquivo CSV que você deseja criar
 def exporta_lista_para_csv(sua_lista, nome_arquivo):
-# Escrever a lista para o arquivo CSV
+    # Dividir a string em uma lista de caracteres
+    sua_lista = list(sua_lista)
+
+    # Escrever a lista para o arquivo CSV
     with open(nome_arquivo, 'w', newline='', encoding='utf-8') as csvfile:
         csvwriter = csv.writer(csvfile)
-        csvwriter.writerows(sua_lista)
+        # Escrever cada caractere como um elemento em uma lista
+        csvwriter.writerow(sua_lista)
 
     print(f'A lista foi exportada para o arquivo CSV: {nome_arquivo}')
 
@@ -67,14 +71,18 @@ def compara_duas_listas(lista01,lista02):
     return TT
 
 def compara_as_4_bases(listas_bases):
-    dicicionario_comparacao_geral = {}
+    dicionario_comparacao_geral = {}
     # faz o for na lista 1
+    print(listas_bases)
     for j in range(0, len(listas_bases)):
+        print(listas_bases[j])
         for i in range(0,len(listas_bases[j])):
-            artigo = limpar_frase(lista_bases[j][i]).lower()
+            artigo = limpar_frase(listas_bases[j][i]).lower()
             # verifica o número de vezes que esse título existe e adiciona no dicionário
-            if artigo not in dicionario_comparacao_SCOPUS:
-                TT[artigo] = 'NÃO REPETIDO'
+            if artigo not in dicionario_comparacao_geral:
+                dicionario_comparacao_geral[artigo] = 'NÃO REPETIDO'
+
+    return dicionario_comparacao_geral
 
 def retorna_lista_delta(TT):
     i=0
@@ -103,6 +111,7 @@ def retorna_lista_delta(TT):
                 lista_novos_artigos = adiciona_artigo_na_lista(lista_novos_artigos, artigos_que_aumenta_o_numero_de_repeticoes, k)
 
     print(f'O delta entre as lista é {i}')
+    print(lista_novos_artigos)
     return lista_novos_artigos
 
 def compara_base_2021_2024(path_2024, path_2021, titulo, arquivo_export):
@@ -119,6 +128,8 @@ def compara_base_2021_2024(path_2024, path_2021, titulo, arquivo_export):
     dicionario_comparacao = compara_duas_listas(resultados_2024, resultados_2021)
     lista_novos_artigos = retorna_lista_delta(dicionario_comparacao)
     exporta_lista_para_csv(lista_novos_artigos, arquivo_export)
+
+    return lista_novos_artigos
 
 
 
@@ -142,3 +153,9 @@ if __name__== '__main__':
     NOVOS_IEEE = compara_base_2021_2024('C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\IEEE2024.csv',
                                        "C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\IEEE2021.csv",
                                        "Document Title", "novos_arquivos_IEEE.csv")
+
+    lista_de_bases = [NOVOS_IEEE, NOVOS_SCOPUS, NOVOS_ACM, NOVOS_SPRINGER]
+
+    dic_filtrados = compara_as_4_bases(lista_de_bases)
+
+    print(dic_filtrados)
