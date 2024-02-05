@@ -80,7 +80,8 @@ def compara_as_4_bases(listas_bases):
             artigo = limpar_frase(listas_bases[j][i]).lower()
             # verifica o número de vezes que esse título existe e adiciona no dicionário
             if artigo not in dicionario_comparacao_geral:
-                dicionario_comparacao_geral[artigo] = 'NÃO REPETIDO'
+                dicionario_comparacao_geral[artigo] = 'FILTRADO' \
+                                                      ''
 
     return dicionario_comparacao_geral
 
