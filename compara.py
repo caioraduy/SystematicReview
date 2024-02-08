@@ -40,6 +40,15 @@ def exporta_lista_para_csv(sua_lista, nome_arquivo):
 
     print(f'A lista foi exportada para o arquivo CSV: {nome_arquivo}')
 
+import csv
+
+def lista_para_csv(lista, nome_arquivo):
+    with open(nome_arquivo, 'w', newline='') as arquivo_csv:
+        escritor_csv = csv.writer(arquivo_csv)
+        for item in lista:
+            escritor_csv.writerow([item])
+
+
 def adiciona_artigo_na_lista(lista, numero_elementos, artigo):
     for i in range(0, numero_elementos):
         artigo_lista = []
@@ -135,28 +144,42 @@ def compara_base_2021_2024(path_2024, path_2021, titulo, arquivo_export):
 
 
 if __name__== '__main__':
-    #SCOPUS
+    #SCOPUS (CARREGA ARTIGOS DA BUSCA FEITA EM 2021 E EM 2024 PARA CALCULAR QUAIS FORAM AS
+    # DIFERENÇAS NA STRING DE BUSCA
     NOVOS_SCOPUS =compara_base_2021_2024("C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\SCOPUS2024.csv",
                                         "C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\SCOPUS2021.csv",
                                          "Title", "novos_arquivos_scopus.csv")
 
     # SPRINGER
+    #(CARREGA ARTIGOS DA BUSCA FEITA EM 2021 E EM 2024 PARA CALCULAR QUAIS FORAM AS
+    # DIFERENÇAS NA STRING DE BUSCA
     NOVOS_SPRINGER = compara_base_2021_2024("C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\SPRINGER2024.csv",
                                           "C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\SPRINGER2021.csv",
                                           "Item Title", "novos_arquivos_springer.csv")
 
     # ACM
+    # (CARREGA ARTIGOS DA BUSCA FEITA EM 2021 E EM 2024 PARA CALCULAR QUAIS FORAM AS
+    # DIFERENÇAS NA STRING DE BUSCA
     NOVOS_ACM = compara_base_2021_2024('C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\ACM2024.csv',
                                             "C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\ACM2021.csv",
                                             "Title", "novos_arquivos_ACM.csv")
 
     # IEEE
+    # #(CARREGA ARTIGOS DA BUSCA FEITA EM 2021 E EM 2024 PARA CALCULAR QUAIS FORAM AS
+    #     # DIFERENÇAS NA STRING DE BUSCA
     NOVOS_IEEE = compara_base_2021_2024('C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\IEEE2024.csv',
                                        "C:\\Users\\raduy\\PycharmProjects\\pythonProject12\\IEEE2021.csv",
                                        "Document Title", "novos_arquivos_IEEE.csv")
 
+    # lista de listas em que cada lista contém, respectivamente, os novos artigos das bases em questões
     lista_de_bases = [NOVOS_IEEE, NOVOS_SCOPUS, NOVOS_ACM, NOVOS_SPRINGER]
-
+    # compara as 4 bases, exlcuindo os arquivos repetidos
     dic_filtrados = compara_as_4_bases(lista_de_bases)
 
-    print(dic_filtrados)
+    #adiciona em uma lista e exporta para um CSV com os novos títulos em que será feita
+    # a análise de vão entrar no CI01 ou CI02
+    lista_titulos_novos = []
+    for k,v in dic_filtrados.items():
+        lista_titulos_novos.append(k)
+
+    lista_para_csv(lista_titulos_novos, 'Novos_titulos.csv')
